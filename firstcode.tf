@@ -4,5 +4,6 @@
      secret_key = "Z6XVh6YhfVZE8M3tg/OA8mdTnymY07nasDFHERzT"
  }
  resource "aws_instance" "jattu" {
+     ami = ""
    
  }
