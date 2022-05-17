@@ -8,5 +8,4 @@
      instance_type = "t2.micro"
      security_groups = ["default"]
      key_name = "mykey.pem"
-   
  }
